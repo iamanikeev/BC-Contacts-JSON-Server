@@ -1,0 +1,6 @@
+{
+  "/contacts/:id/addresses/": "/addresses/:id",
+  "/contacts/:id/phones/": "/phones/:id",
+  "/contacts/:id/emails/": "/emails/:id",
+  "/contacts/:id/related-contacts/": "/contacts/"
+}
